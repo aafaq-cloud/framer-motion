@@ -1,11 +1,8 @@
 import './App.css';
+import Box1 from './components/Box1/Box1';
 
 function App() {
-  return (
-    <div className="App">
-      Hello from Framer Motion
-    </div>
-  );
+  return <Box1 />;
 }
 
 export default App;
