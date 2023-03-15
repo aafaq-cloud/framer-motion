@@ -56,9 +56,7 @@ const Box2 = () => {
         dragConstraints={{ right: 20, left: -20, top: 5, bottom: 5 }}
         whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
-      >
-        Box2
-      </motion.div>
+      ></motion.div>
     </div>
   );
 };

@@ -168,9 +168,7 @@ const Box1 = () => {
         onClick={() => {
           setIsAnimate(!isAnimate);
         }}
-      >
-        Box1
-      </motion.div>
+      ></motion.div>
     </div>
   );
 };
