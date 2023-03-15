@@ -17,6 +17,17 @@ body {
   height: 15rem;
   background-color: aquamarine;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.boxItem {
+  width: 0.2rem;
+  height: 0.2rem;
+  background: #fff;
+  padding: 1rem;
+  display: block;
+  list-style: none;
+  margin: 0.2rem;
 }
