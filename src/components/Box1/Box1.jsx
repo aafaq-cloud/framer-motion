@@ -183,5 +183,10 @@ export default Box1;
  * and then prepend this to whatever element we want to animate so we do motion.div and we basically get to a lot of different props and these are the main props that we're ultimately going to  using
  * 1. The animate prop just defines how we are going to be animating our element
  * 2. The initial props is going to be define the initial styles of our element before we animate it
- * 3. The transition is going to be define the type as well as the duration or in this case the stiffness 
+ * 3. The transition is going to be define the type as well as the duration or in this case the stiffness
+ */
+
+/**
+ * Second Animation:
+ * Cool hover effect and we can also get this kind of cool tapping effect and we also have this dragging features
  */
